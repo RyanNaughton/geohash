@@ -1,7 +1,6 @@
 require "geohash/version"
 
 module Geohash
-  VERSION = "1.0.0"
   
   #########
   # Decode from geohash
